@@ -2,6 +2,8 @@
 
 The codemod written to migrate the Airtable codebase from Flow to TypeScript.
 
+This codemod was open sourced as a part of publishing the blog post “[The continual evolution of Airtable’s codebase: Migrating a million lines of code to TypeScript](https://medium.com/airtable-eng/the-continual-evolution-of-airtables-codebase-migrating-a-million-lines-of-code-to-typescript-612c008baf5c).” If you’re interested in learning more about how Airtable migrated from Flow type TypeScript, we recommend reading that blog post.
+
 > ⚠️ This codemod was designed for one-time use against Airtable’s codebase! If you want to run it against your codebase, you’ll need to clone the git repo and do some manual tuning.
 
 ## Architecture
